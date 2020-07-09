@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**sunnysabor/sunnysabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+java full stack developer
 
 Contact me
 - https://github.com/sunnysabor
