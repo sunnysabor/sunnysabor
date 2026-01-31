@@ -4,7 +4,6 @@
 java full stack developer
 
 Contact me
-- https://sunnysabor-personal-website-temp.vercel.app
 - https://github.com/sunnysabor
 - zengzenghuang@gmail.com
 - https://blog.csdn.net/xinzhiyishi/
