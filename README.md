@@ -13,7 +13,7 @@ Contact me
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./images/qrcode.jpg" alt="微信公众号" width="180" /><br />
+      <img src="./image/qrcode.jpg" alt="微信公众号" width="180" /><br />
       <b>关注我的微信公众号</b>
     </td>
   </tr>
